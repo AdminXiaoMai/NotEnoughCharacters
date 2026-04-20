@@ -61,6 +61,7 @@ public class NechConfig {
         "com.glodblock.github.client.gui.GuiInterfaceWireless:itemStackMatchesSearchTerm",
         "com.glodblock.github.client.gui.GuiLevelTerminal$LevelTerminalList:update",
         "com.glodblock.github.client.gui.GuiLevelTerminal:itemStackMatchesSearchTerm",
+        "com.glodblock.github.client.gui.GuiLevelTerminal$LevelTerminalSection:refreshVisible", // ae2fc Level Terminal section filtering
         "appeng.client.gui.implementations.GuiInterfaceTerminal$InterfaceTerminalList:update",
         "appeng.client.gui.implementations.GuiInterfaceTerminal:itemStackMatchesSearchTerm",
         "com.glodblock.github.client.gui.GuiInterfaceWireless$InterfaceWirelessList:update" };
